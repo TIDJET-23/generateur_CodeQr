@@ -4,7 +4,7 @@
 for ((i=1; i<=20; i++))
 do
   # Créer le fichier vide
-  touch fileX.txt
+  touch file$i.txt
 
   # Ajouter et committer le fichier
   git add .
@@ -18,7 +18,7 @@ done
 for ((i=1; i<=20; i++))
 do
   # Supprimer le fichier
-  sudo rm fileX.txt
+  sudo rm file$i.txt
 
   # Ajouter et committer la suppression
   git add .
