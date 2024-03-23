@@ -8,10 +8,10 @@ do
 
   # Ajouter et committer le fichier
   git add .
-  git commit -m "your_commit_message"
+  git commit -m "first commit"
 
   # Pusher les modifications sur le dépôt distant
-  git push
+  git push origin master
 done
 
 # Boucle pour supprimer le fichier et committer la suppression 20 fois
@@ -22,9 +22,9 @@ do
 
   # Ajouter et committer la suppression
   git add .
-  git commit -m "your_commit_message"
+  git commit -m "first commit"
 
   # Pusher les modifications sur le dépôt distant
-  git push
+  git push origin master
 done
 
