@@ -13,8 +13,8 @@ Welcome to the Wiki for the QR Code Generator project. This project allows you t
 
 To clone and run this project locally:
 
-1. Clone this repository: `git clone https://github.com/your-username/repository-name.git`
-2. Navigate to the project folder: `cd repository-name`
+1. Clone this repository
+2. Navigate to the project folder
 3. Open the `index.html` file in your browser to start generating QR codes.
 
 ## Usage
